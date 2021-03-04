@@ -1,0 +1,3 @@
+Langkah :
+- belajar Git & Github
+- Beljar Javascript
